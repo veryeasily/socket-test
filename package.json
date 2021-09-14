@@ -1,0 +1,17 @@
+{
+  "name": "socket-test",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "4",
+    "socket.io": "^4.2.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.4.0"
+  }
+}
